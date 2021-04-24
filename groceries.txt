@@ -3,3 +3,4 @@ apples
 butter
 eggs
 toilet paper
+rice
